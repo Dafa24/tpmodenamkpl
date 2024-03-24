@@ -1,0 +1,7 @@
+D:\tpmodenam\tpmodenam\bin\Debug\tpmodenam.exe.config
+D:\tpmodenam\tpmodenam\bin\Debug\tpmodenam.exe
+D:\tpmodenam\tpmodenam\bin\Debug\tpmodenam.pdb
+D:\tpmodenam\tpmodenam\obj\Debug\tpmodenam.csproj.AssemblyReference.cache
+D:\tpmodenam\tpmodenam\obj\Debug\tpmodenam.csproj.CoreCompileInputs.cache
+D:\tpmodenam\tpmodenam\obj\Debug\tpmodenam.exe
+D:\tpmodenam\tpmodenam\obj\Debug\tpmodenam.pdb
